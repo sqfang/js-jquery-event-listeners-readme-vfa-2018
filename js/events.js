@@ -23,7 +23,7 @@ function submitIt(){
 
 $(document).ready(function(){
   getIt();
-
+  frameIt();
 // call functions here
 
 
