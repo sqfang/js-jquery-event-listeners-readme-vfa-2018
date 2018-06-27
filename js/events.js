@@ -26,8 +26,8 @@ function submitIt(){
 }
 
 $(document).ready(function(){
-  getIt();
+  getIt(); //correct
   frameIt();
   pressIt();
-  submitIt(); //good
+  submitIt(); //correct
 });
