@@ -28,7 +28,4 @@ $(document).ready(function(){
   frameIt();
   pressIt();
   submitIt();
-// call functions here
-
-
 });
