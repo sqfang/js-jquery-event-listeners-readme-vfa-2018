@@ -12,6 +12,11 @@ function getIt(){
 }
 */
 
+function frameIt(){
+  $('img').addClass('tasty');
+  return;
+}
+
 function pressIt(){
   $('#typing').on('keydown', function(key){
     if (key.which === '71'){
