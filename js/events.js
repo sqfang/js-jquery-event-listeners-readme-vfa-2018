@@ -12,8 +12,8 @@ function frameIt(){
 }
 
 function pressIt(){
-  $().on('keydown', function(){
-    
+  $('form').on('keydown', function(){
+    if (key)
   });
 }
 
