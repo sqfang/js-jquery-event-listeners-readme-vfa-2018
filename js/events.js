@@ -5,11 +5,12 @@ function getIt(){
   });
 }
 
-function frameIt(){
+/*function frameIt(){
   $('img').on('load', function(){
     $('img').addClass("tasty");
   });
 }
+*/
 
 function pressIt(){
   $('#typing').on('keydown', function(key){
